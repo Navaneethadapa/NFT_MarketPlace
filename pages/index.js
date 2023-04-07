@@ -18,7 +18,7 @@ const Home = () => {
     return(
     <div className={style.wrapper}>
       <Head>
-        <title>Kryponaut NFT MarketPlace</title>
+        <title>Navaneeth's Kryponaut</title>
       </Head>
        <video src='/nft.mp4' type="video/mp4" loop controls={false} muted autoPlay className='fixed object-cover w-full h-ful -z-10'/>
         <button onClick={connectWithMetamask} className={style.connectWalletButton}>Connect MetaMask</button>
