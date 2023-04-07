@@ -49,7 +49,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Kryponaut NFT MarketPlace</title>
+        <title>Navaneeth's Kryponaut</title>
       </Head>
       <TopNavbarLayout>
         <div className={style.wrapper}>
