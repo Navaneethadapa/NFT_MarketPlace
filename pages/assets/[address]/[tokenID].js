@@ -63,7 +63,7 @@ const NFT = () => {
   return (
     <TopNavbarLayout>
       <Head>
-        <title>Kryponaut NFT MarketPlace</title>
+        <title>Navaneeth's Kryponaut</title>
       </Head>
       <div className={style.wrapper}>
         {loading ? (
